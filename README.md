@@ -7,7 +7,8 @@ This is a simple website that updates price of Bitcoin, using websocket from Bin
 1. Create a simple html page, based on a simple idea of updating bitcoin price with data from binance through a js file.
 
 2. Then i was meddling with google cloud run basic guides and decide to try out the steps as written here: https://cloud.google.com/run/docs/quickstarts/build-and-deploy/nodejs
-I tried to run this command in my project folder
+    
+    I tried to run this command in my project folder
 
 		gcloud run deploy
 	yet it failed for some reasons.
